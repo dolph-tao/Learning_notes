@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tao_4/Documents/GitHub/OfferPractice/01_AssignmentOperator/AssignmentOperator.cpp
+cstring
+-
+cstdio
+-
+
